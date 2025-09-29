@@ -1,0 +1,28 @@
+# Archivos Git
+.git
+.gitignore
+
+# Binarios compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+hero-api
+
+# Archivos de test
+*.test
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode
+.idea
+*.swp
+*.swo
+
+# Otros
+README.md
+.env
